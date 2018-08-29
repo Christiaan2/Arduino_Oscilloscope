@@ -1,7 +1,8 @@
 %{
     Name: Christiaan Reurslag
     Studentnummer: s1495089
-    Assignment: Arduino part 2 Exercise 9 and 10
+    Description: Plot the data from the Arduino in real Time and logs the 
+                data in a txt file.
     MATLAB R2016b
 %}
 
